@@ -5,5 +5,7 @@ For each version there will be a folder with that version, using semver.org vers
 
 Folders
 -------
-\initial This folder contains work files for the initial conversion of the openEHR 200b BoUML XMI file to a EA XMI file.
-\<version> Will contain the EAP, BMM, XMI, XSD, RDF representation of <version> of the CIMI RM 
+<table>
+<tr><td>/initial</td><td>This folder contains work files for the initial conversion of the openEHR 200b BoUML XMI file to a EA XMI file.</td></tr>
+<tr><td>/[version]</td><td>Will contain the EAP, BMM, XMI, XSD, RDF representation of <version> of the CIMI RM</td></tr>
+</table>
