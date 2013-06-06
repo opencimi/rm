@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ENTRY xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cimi-rm.xsd">
+  <archetype_node_id>archetype_node_id</archetype_node_id>
+  <name>name</name>
+  <uid>uid</uid>
+  <language>
+    <value>value</value>
+    <code>code</code>
+    <terminology_id>terminology_id</terminology_id>
+  </language>
+  <data xsi:type="ELEMENT">
+    <archetype_node_id>archetype_node_id</archetype_node_id>
+    <name>name</name>
+    <uid>instance_id</uid>
+  </data>
+</ENTRY>
