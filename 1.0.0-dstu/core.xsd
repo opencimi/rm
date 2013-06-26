@@ -132,7 +132,7 @@ an ordered list. </xs:documentation>
 			<xs:extension base="ITEM">
 				<xs:sequence>
 					<xs:element name="null_flavor" type="CODED_TEXT" minOccurs="0" maxOccurs="1"/>
-					<xs:element name="value" type="xs:string" minOccurs="0" maxOccurs="1"/>
+					<xs:element name="value" type="DATA_VALUE" minOccurs="0" maxOccurs="1"/>
 				</xs:sequence>
 			</xs:extension>
 		</xs:complexContent>
