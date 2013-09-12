@@ -37,6 +37,9 @@
             <xsl:when test="name()='profileApplication'"/>
             <xsl:when test="name()='ownedComment'"/>
             
+            <!-- unnamed classes are diagram elements or other unninteresting things -->
+            <xsl:when test="name()='packagedElement' and not(@name) and @xmi:type='uml:Class'"/>
+            
             <!-- This is an issue with EMF, not the output XMI -->
             <xsl:when test="name()='xmi:Documentation'"/>
 
