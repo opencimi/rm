@@ -53,18 +53,9 @@
                 </xsl:if>
             </xsl:when>
 
-            <!-- EAJava types are specific to EA.  Map them to UML equivalent -->
-            <xsl:when test="name()='type' and @xmi:idref = 'EAJava_String'">
-                <type xmi:type="uml:PrimitiveType" href="http://schema.omg.org/spec/UML/2.2/UML.xmi#String"/>
-            </xsl:when>
-            <xsl:when test="name()='type' and @xmi:idref = 'EAJava_Real'">
-                <type xmi:type="uml:PrimitiveType" href="http://schema.omg.org/spec/UML/2.2/UML.xmi#Real"/>
-            </xsl:when>
-            <xsl:when test="name()='type' and @xmi:idref = 'EAJava_Boolean'">
-                <type xmi:type="uml:PrimitiveType" href="http://schema.omg.org/spec/UML/2.2/UML.xmi#Boolean"/>
-            </xsl:when>
-            <xsl:when test="name()='type' and @xmi:idref = 'EAJava_Integer'">
-                <type xmi:type="uml:PrimitiveType" href="http://schema.omg.org/spec/UML/2.2/UML.xmi#Integer"/>
+            <!-- EAJava types are specific to EA.  All references should be to the internal primitive types class -->
+            <xsl:when test="name()='type' and starts-with(@xmi:idref,'EAJava_')">
+                <xsl:message select="concat('Wrong String type for', ../name())"/>
             </xsl:when>
 
             <!-- EMF treates TemplateSignature as abstract.  This may be an error on the EMF side but... -->
@@ -76,16 +67,12 @@
                 </xsl:copy>
             </xsl:when>
 
-            <!-- Remaining types (BYTE and CHAR) map to RM primitive types -->
-            <xsl:when test="name()='type' and starts-with(@xmi:idref,'EAJava_')">
-                <type xmi:idref="RM_{substring-after(@xmi:idref,'EAJava_')}"/>
-            </xsl:when>
             <xsl:otherwise>
                 <xsl:copy>
                     <xsl:apply-templates select="@*"/>
 
                     <!-- Add in the local RM primitive types -->
-                    <xsl:if test="name()='uml:Model'">
+                    <!--<xsl:if test="name()='uml:Model'">
 
                         <packagedElement xmi:type="uml:Package" xmi:id="RMPrimitiveTypesPackage" name="RM_PrimitiveTypes_Package">
                             <packagedElement xmi:type="uml:Package" xmi:id="RMTypesPackage" name="RM_Types_Package">
@@ -94,7 +81,7 @@
                             </packagedElement>
                         </packagedElement>
 
-                    </xsl:if>
+                    </xsl:if>-->
 
                     <!-- Map proprietary EA documentation into ownedComments -->
                     <xsl:if test="@xmi:id">
