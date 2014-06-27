@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ENTRY xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://opencimi.org/rm"
+	xmlns:tb="http://opencimi.org/term-binding">
+  <archetype_node_id>at0001</archetype_node_id>
+  <tb:meaning>sctid:246445000</tb:meaning>
+  <name>SystolicBP Measure</name>
+  <uid>{3577F211-1D8C-4ce4-8579-D29DC083A96D}</uid>
+  <language>
+    <value>English</value>
+    <code>en</code>
+    <terminology_id>ISO639-1</terminology_id>
+  </language>
+  <data xsi:type="ELEMENT">
+    <archetype_node_id>at0002</archetype_node_id>
+    <tb:meaning>sctid:271649006</tb:meaning>
+    <name>SystolicBP</name>
+    <value xsi:type="QUANTITY">
+    	<value>138</value>
+    	<units>
+    		<value>mmHg</value>
+    		<code>mm[Hg]</code>
+			<terminology_id>UCUM</terminology_id>
+    	</units>
+    </value>
+  </data>
+</ENTRY>
