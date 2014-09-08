@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>CIMI Reference Model</title>
+<link href="../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="pageHeader"></div>
+<div class="PageBody">
+	<div id="name_classifier" style="display: none;"></div>
+	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("CIMI Reference Model", " : "))</script> RM : Public  &lt;&lt;reference_model&gt;&gt; Package</span>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">9/14/2012 4:22:42 AM</td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic">Modified:</td>
+			<td class="ObjectDetailsValue">6/19/2014 6:53:13 AM</td>
+		</tr>
+		<tr style="height: 10px"><td colspan="2"></td></tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td class="ObjectDetailsValue">CIMI</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td class="ObjectDetailsValue">2.0.1</td>
+		</tr>
+		<tr id="proj02" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Phase:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj03" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Status:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj04" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Complexity:</td>
+			<td class="ObjectDetailsValue">Easy</td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Difficulty:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj06" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Priority:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Multiplicity:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
+			<td class="ObjectDetailsValue">{187D8523-BE51-4bf0-9ACF-BE8FBBC56821}</td>
+		</tr>
+		<tr id="adv01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
+			<td class="ObjectDetailsValue"><a href="EA2.htm">Welcome</a></td>
+		</tr>
+	</table>
+	<div class="ObjectDetailsNotes">&lt;b&gt;Welcome to the CIMI Reference Model v2.0.x&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;This model is the reference model upon which CIMI clinical models are defined. Each CIMI clinical models (i.e. archetypes) is defined by constraining the CIMI reference model. Each example instance of a CIMI Clinical Model is an instance of the CIMI reference model, which conforms to the constraints defined by the associated clinical model.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Version 2.0.x is the result of the minimalistic RM approach, were more complex structures are created by archetyping the minimal RM and building from that.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Version 1.0.4 incorporates feedback from the meeting in Pleasanton, additional documentation, and further improvements resulting from reviews and discussion. It is anticipated that further improvements will be incorporated, as clinical models are developed using this reference model. The core CIMI 1.0.X Modelling team is: &lt;i&gt;Linda Bird&lt;/i&gt;, &lt;i&gt;Thomas Beale&lt;/i&gt;, &lt;i&gt;Michael van der Zel, Dave Carlson, Stephen Chu, Stan Huff, Mike Lincoln, Rahil Qamar Siddiqui, Gerard Freriks, Josh Mandel, &lt;/i&gt;and &lt;i&gt;Mark Shafarman&lt;/i&gt;. Additional technical expertise was provided by: &lt;i&gt;Galen Mulrooney, Dipak Kalra&lt;/i&gt;, &lt;i&gt;Daniel Karlsson, Peter Hendler, Cecil Lynch, David Moner, Sarah Ryan&lt;/i&gt; and &lt;i&gt;Harold Solbrig&lt;/i&gt;. Additional clinical modelling support was provided by: &lt;i&gt;William Goosen, Jay Lyle, Ian McNicoll, Anneke Goosen, Heather Leslie, Hendry Wijaya, &lt;/i&gt;and &lt;i&gt;Marcelo Rodrigues dose Santos.&lt;/i&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;/i&gt;Version 1.0.0 of this reference model was approved at the May 2012 meeting in Pleasanton as &quot;the starting point for further testing using clinical models&quot;. The CIMI 1.0.0 RM team was: &lt;i&gt;Linda Bird&lt;/i&gt;, &lt;i&gt;Thomas Beale&lt;/i&gt;, &lt;i&gt;Michael van der Zel&lt;/i&gt;, &lt;i&gt;Josh Mandel&lt;/i&gt;, &lt;i&gt;Galen Mulrooney&lt;/i&gt;, &lt;i&gt;Richard Kavanagh&lt;/i&gt;, &lt;i&gt;Gerard Freriks&lt;/i&gt;, &lt;i&gt;Stan Huff &lt;/i&gt;and &lt;i&gt;Grahame Grieve&lt;/i&gt;.&lt;br /&gt;&lt;/p&gt;</div>
+
+<div class="pageFooter"></div>
+ 
+</body>
+</html>

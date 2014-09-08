@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.1.7.1.4:1", "", "CIMI.RM.ObservationPattern (Class)", "EARoot/EA1/EA7/EA1/EA4/EA221.htm", "175.png", "20", "0", "", "Logical diagram0","{E83F0B9E-42AE-431e-B955-538377FB14EC}");
+tocTab[tocTab.length] = new Array("0.1.7.1.4:2", "", "Clinical Entry", "EARoot/EA1/EA7/EA1/EA4/EA228.htm", "5.png", "1456", "0", "", "Class0","{FE5BC5E4-FCAF-479b-BF2F-BFB26024BB68}");
+tocTab[tocTab.length] = new Array("0.1.7.1.4:3", "", "Observation", "EARoot/EA1/EA7/EA1/EA4/EA229.htm", "5.png", "1457", "0", "", "Class0","{CC4F6E4C-F566-4ee7-AB3D-E59AF19B673A}");
+tocTab[tocTab.length] = new Array("0.1.7.1.4:7", "", "observable", "EARoot/EA1/EA7/EA1/EA4/EA233.htm", "5.png", "1455", "1457", "", "Class0","{E9A7A317-1059-425a-8ACF-3D8A1D984018}");
+tocTab[tocTab.length] = new Array("0.1.7.1.4:8", "", "result", "EARoot/EA1/EA7/EA1/EA4/EA234.htm", "5.png", "1462", "1457", "", "Class0","{4D351324-0287-4748-9300-70A620773E34}");
+tocTab[tocTab.length] = new Array("0.1.7.1.4:9", "", "timing", "EARoot/EA1/EA7/EA1/EA4/EA235.htm", "5.png", "1461", "1457", "", "Class0","{635047CD-A924-4924-B6B9-0623301F47BF}");
+tocTab[tocTab.length] = new Array("0.1.7.1.4:4", "", "details", "EARoot/EA1/EA7/EA1/EA4/EA230.htm", "5.png", "1460", "1455", "", "Class0","{A22DCCDC-8879-42f5-B6D3-4B30856F83C8}");
+tocTab[tocTab.length] = new Array("0.1.7.1.4:5", "", "name", "EARoot/EA1/EA7/EA1/EA4/EA231.htm", "5.png", "1458", "1455", "", "Class0","{9F5822C7-4F26-4460-93B3-3E7C4AD6EA21}");
+tocTab[tocTab.length] = new Array("0.1.7.1.4:6", "", "status", "EARoot/EA1/EA7/EA1/EA4/EA232.htm", "5.png", "1459", "1455", "", "Class0","{1252B7E0-9474-45a2-99DD-9D6C4C36A125}");
+tocTab[tocTab.length] = new Array("0.1.7.1.4:10", "", "datetime range", "EARoot/EA1/EA7/EA1/EA4/EA236.htm", "5.png", "1470", "1461", "", "Class0","{C6FE63FD-ED01-4095-A99B-52CFA51A33AC}");
