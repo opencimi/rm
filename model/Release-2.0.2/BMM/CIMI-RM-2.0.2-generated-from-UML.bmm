@@ -43,7 +43,7 @@ packages = <
             >
             ["Primitive_Types"] = <
                 name = <"Primitive_Types">
-                classes = <"Boolean", "Byte", "Character", "Integer", "Real", "String", "URI", "Any", "List", "Array">
+                classes = <"Any", "Array", "List", "Boolean", "Byte", "Character", "Integer", "Real", "String", "URI">
             >
         >
     >
@@ -685,6 +685,28 @@ class_definitions = <
 ------------------------------------
 
 primitive_types = <
+    ["Any"] = <
+        name = <"Any">
+    >
+
+    ["Array"] = <
+        name = <"Array">
+        generic_parameter_defs = <
+            ["T"] = <
+                name = <"T">
+            >
+        >
+    >
+
+    ["List"] = <
+        name = <"List">
+        generic_parameter_defs = <
+            ["T"] = <
+                name = <"T">
+            >
+        >
+    >
+
     ["Boolean"] = <
         name = <"Boolean">
     >
@@ -712,27 +734,5 @@ primitive_types = <
     ["URI"] = <
         name = <"URI">
     >
-
-    ["Any"] = <
-        name = <"Any">
-	is_abstract = <True>
-    >
-
-	["List"] = <
-		name = <"List">
-		generic_parameter_defs = <
-			["T"] = <
-				name = <"T">
-			>
-		>
-	>
-	["Array"] = <
-		name = <"Array">
-		generic_parameter_defs = <
-			["T"] = <
-				name = <"T">
-			>
-		>
-	>
 
 >
