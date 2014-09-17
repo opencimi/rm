@@ -17,15 +17,6 @@ schema_lifecycle_state = <"experimental">
 schema_description = <"CIMI_Reference_Model v2.0.2 schema generated from UML">
 
 ------------------------------------
--- inclusions
-------------------------------------
-includes = <
-    ["1"] = <
-         id = <"openehr_primitive_types_1.0.2">
-    >
->
-
-------------------------------------
 -- archetyping
 ------------------------------------
 archetype_rm_closure_packages = <"CIMI_Reference_Model.Core", ...>
@@ -49,6 +40,10 @@ packages = <
             ["Party"] = <
                 name = <"Party">
                 classes = <"ACTOR", "PARTY", "PARTY_RELATIONSHIP", "ROLE">
+            >
+            ["Primitive_Types"] = <
+                name = <"Primitive_Types">
+                classes = <"Boolean", "Byte", "Character", "Integer", "Real", "String", "URI">
             >
         >
     >
@@ -682,4 +677,40 @@ class_definitions = <
             >
         >
     >
+
+
+    ------------------------------------
+    -- Primitive_Types
+    ------------------------------------
+
+primitive_types = <
+	    ["Boolean"] = <
+		name = <"Boolean">
+	    >
+
+	    ["Byte"] = <
+		name = <"Byte">
+	    >
+
+	    ["Character"] = <
+		name = <"Character">
+	    >
+
+	    ["Integer"] = <
+		name = <"Integer">
+	    >
+
+	    ["Real"] = <
+		name = <"Real">
+	    >
+
+	    ["String"] = <
+		name = <"String">
+	    >
+
+	    ["URI"] = <
+		name = <"URI">
+	    >
+	>
+
 >
