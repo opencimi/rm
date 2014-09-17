@@ -50,10 +50,6 @@ packages = <
                 name = <"Party">
                 classes = <"ACTOR", "PARTY", "PARTY_RELATIONSHIP", "ROLE">
             >
-            ["Primitive_Types"] = <
-                name = <"Primitive_Types">
-                classes = <"Boolean", "Byte", "Character", "Integer", "Real", "String", "URI">
-            >
         >
     >
 >
@@ -686,38 +682,4 @@ class_definitions = <
             >
         >
     >
-
-
-    ------------------------------------
-    -- Primitive_Types
-    ------------------------------------
-
-    ["Boolean"] = <
-        name = <"Boolean">
-    >
-
-    ["Byte"] = <
-        name = <"Byte">
-    >
-
-    ["Character"] = <
-        name = <"Character">
-    >
-
-    ["Integer"] = <
-        name = <"Integer">
-    >
-
-    ["Real"] = <
-        name = <"Real">
-    >
-
-    ["String"] = <
-        name = <"String">
-    >
-
-    ["URI"] = <
-        name = <"URI">
-    >
-
 >
