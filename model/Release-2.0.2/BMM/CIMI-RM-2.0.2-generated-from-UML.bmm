@@ -12,8 +12,8 @@ rm_release = <"2.0.2">
 ------------------------------------
 -- schema documentation
 ------------------------------------
-schema_revision = <"Wednesday, September 17, 2014">
-schema_lifecycle_state = <"experimental">
+schema_revision = <"Tuesday, October 14, 2014">
+schema_lifecycle_state = <"dstu">
 schema_description = <"CIMI_Reference_Model v2.0.2 schema generated from UML">
 
 ------------------------------------
@@ -171,11 +171,6 @@ class_definitions = <
                 name = <"name">
                 type = <"String">
                 is_mandatory = <True>
-            >
-            ["uid"] = (P_BMM_SINGLE_PROPERTY) <
-                name = <"uid">
-                type = <"String">
-                is_im_runtime = <True>
             >
             ["archetype_details"] = (P_BMM_SINGLE_PROPERTY) <
                 name = <"archetype_details">
