@@ -1,0 +1,236 @@
+12/18/14 12:40 P.M. Convert /Users/mrf7578/Development/git/openCIMI/rm/model/Release-2.0.3/UML/EA/CIMI RM v2.0.3.xmi to /Users/mrf7578/Development/git/openCIMI/rm/model/Release-2.0.3/UML/MD/CIMI RM v2.0.3.mdxml
+Updated element "EAID_D1569BD4_C5DB_4e25_9C8B_967343175BC4": The Actor with property was transformed to a Class with EAActor.
+Updated element "EAID_dst6CD8BE_BE73_4f2f_8930_1C885E279D53": Association property in the Actor was moved to be a child of the Association.
+Updated element "EAID_FB4AB436_B89F_4ac7_ABAC_170A7B5627C8": The Actor with property was transformed to a Class with EAActor.
+Updated element "EAID_dst33BF4C_F53C_4ac8_A1CD_7031CA93A2C4": Association property in the Actor was moved to be a child of the Association.
+Updated element "EAID_E3D789E3_3F10_46f3_B250_C148E930FCB6": The Actor with property was transformed to a Class with EAActor.
+Updated element "EAID_dst548EAE_7C57_49b6_8658_4DA1E8B3D6C9": Association property in the Actor was moved to be a child of the Association.
+Updated element "EAID_dstD1FC28_4161_47f2_9349_64B48F134199": Association property in the Actor was moved to be a child of the Association.
+Removed element "EAID_dst40771B_6AF8_429e_A2BA_FB8520316D9F": InstanceSpecification cannot contain Property elements.
+Removed element "EAID_dst2D6946_3FFD_464f_8028_7D339AB7EAB8": InstanceSpecification cannot contain Property elements.
+Removed element "EAID_dstDF7460_DC27_4ad6_86D3_1A054DB59AA7": InstanceSpecification cannot contain Property elements.
+Removed element "EAID_3340771B_6AF8_429e_A2BA_FB8520316D9F": Association cannot be linked to an InstanceSpecification.
+Removed element "EAID_832D6946_3FFD_464f_8028_7D339AB7EAB8": Association cannot be linked to an InstanceSpecification.
+Removed element "EAID_DDDF7460_DC27_4ad6_86D3_1A054DB59AA7": Association cannot be linked to an InstanceSpecification.
+Removed element "EAID_5B3B113C_AB48_4006_81DC_3BC646B2DDFE": Association cannot be linked to an InstanceSpecification.
+Removed element "EAID_320D86DF_78E7_4782_9500_77CD5F7957E9": Association cannot be linked to an InstanceSpecification.
+Removed element "EAID_7ABB412C_3709_44e3_A52D_9C1A528741BD": Association cannot be linked to an InstanceSpecification.
+Removed element "EAID_C6775602_9565_41ef_9F05_B979C8E7CEE6": Association cannot be linked to an InstanceSpecification.
+Removed element "EAID_6E339EA0_FAD5_44fd_B22E_0AE782377C5D": Association cannot be linked to an InstanceSpecification.
+Removed element "EAID_91C0CBBD_3438_4c19_9040_2105B5EB0BAE": Association cannot be linked to an InstanceSpecification.
+Removed element "EAID_447589D6_D88B_49df_93EE_F27D3702E76E": Association cannot be linked to an InstanceSpecification.
+Removed element "EAID_dst2914E0_C585_4ee5_8A77_A03124EE3F42": InstanceSpecification cannot contain Property elements.
+Removed element "EAID_dst1F2050_8A3F_41a1_BBF6_AC251E570AE4": InstanceSpecification cannot contain Property elements.
+Removed element "EAID_dst43A718_044F_4bf8_87FB_AC25A4B34C4C": InstanceSpecification cannot contain Property elements.
+Removed element "EAID_3F2914E0_C585_4ee5_8A77_A03124EE3F42": Association cannot be linked to an InstanceSpecification.
+Removed element "EAID_731F2050_8A3F_41a1_BBF6_AC251E570AE4": Association cannot be linked to an InstanceSpecification.
+Removed element "EAID_9943A718_044F_4bf8_87FB_AC25A4B34C4C": Association cannot be linked to an InstanceSpecification.
+Removed element "EAID_dst339EA0_FAD5_44fd_B22E_0AE782377C5D": InstanceSpecification cannot contain Property elements.
+Removed element "EAID_C27E2C24_669C_4e42_89EB_218015C4E24F": Association cannot be linked to an InstanceSpecification.
+Removed element "EAID_dst0D86DF_78E7_4782_9500_77CD5F7957E9": InstanceSpecification cannot contain Property elements.
+Removed element "EAID_345DE87F_A0E5_4fa2_B13C_64BB7DB4A19B": Association cannot be linked to an InstanceSpecification.
+Removed element "EAID_C62D173C_8EA0_4998_890E_F2941515974E": Association cannot be linked to an InstanceSpecification.
+Removed element "EAID_dst775602_9565_41ef_9F05_B979C8E7CEE6": InstanceSpecification cannot contain Property elements.
+Removed element "EAID_300C9703_9C94_41a3_8299_88A1972B0B68": Association cannot be linked to an InstanceSpecification.
+Removed element "EAID_dst7589D6_D88B_49df_93EE_F27D3702E76E": InstanceSpecification cannot contain Property elements.
+Removed element "EAID_BCDE7540_435D_4fe0_9FAB_54692D06CCB3": Association cannot be linked to an InstanceSpecification.
+Removed element "EAID_dstD3488D_3424_4263_B20E_DF09305E9CDB": InstanceSpecification cannot contain Property elements.
+Removed element "EAID_dstDE7540_435D_4fe0_9FAB_54692D06CCB3": InstanceSpecification cannot contain Property elements.
+Removed element "EAID_dst2D173C_8EA0_4998_890E_F2941515974E": InstanceSpecification cannot contain Property elements.
+Removed element "EAID_38D3488D_3424_4263_B20E_DF09305E9CDB": Association cannot be linked to an InstanceSpecification.
+Removed element "EAID_dst3B113C_AB48_4006_81DC_3BC646B2DDFE": InstanceSpecification cannot contain Property elements.
+Removed element "EAID_6E2A8044_A85E_49ea_97B5_FF2078B85F71": Association cannot be linked to an InstanceSpecification.
+Removed element "EAID_dstBB412C_3709_44e3_A52D_9C1A528741BD": InstanceSpecification cannot contain Property elements.
+Removed element "EAID_D3F5A969_1770_4ef9_9017_68BD4886A294": Association cannot be linked to an InstanceSpecification.
+Removed element "EAID_dstC0CBBD_3438_4c19_9040_2105B5EB0BAE": InstanceSpecification cannot contain Property elements.
+Removed element "EAID_dst0C9703_9C94_41a3_8299_88A1972B0B68": InstanceSpecification cannot contain Property elements.
+Removed element "EAID_dst5DE87F_A0E5_4fa2_B13C_64BB7DB4A19B": InstanceSpecification cannot contain Property elements.
+Removed element "EAID_dst2A8044_A85E_49ea_97B5_FF2078B85F71": InstanceSpecification cannot contain Property elements.
+Removed element "EAID_dst7E2C24_669C_4e42_89EB_218015C4E24F": InstanceSpecification cannot contain Property elements.
+Removed element "EAID_dstF5A969_1770_4ef9_9017_68BD4886A294": InstanceSpecification cannot contain Property elements.
+Updated element "extension_bind": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_bind": upper property was updated to XMI element.
+Updated element "extension_bind": lower property was updated to XMI element.
+Updated element "extension_pattern": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_pattern": upper property was updated to XMI element.
+Updated element "extension_pattern": lower property was updated to XMI element.
+Updated element "extension_archetype_rm_closure": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_archetype_rm_closure": upper property was updated to XMI element.
+Updated element "extension_archetype_rm_closure": lower property was updated to XMI element.
+Updated element "extension_reference_model": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_reference_model": upper property was updated to XMI element.
+Updated element "extension_reference_model": lower property was updated to XMI element.
+Updated element "extension_include": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_include": upper property was updated to XMI element.
+Updated element "extension_include": lower property was updated to XMI element.
+Updated element "extension_enum": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_enum": upper property was updated to XMI element.
+Updated element "extension_enum": lower property was updated to XMI element.
+Updated element "extension_precedes": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_precedes": upper property was updated to XMI element.
+Updated element "extension_precedes": lower property was updated to XMI element.
+Updated element "extension_is_adl_primitivetype": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_is_adl_primitivetype": upper property was updated to XMI element.
+Updated element "extension_is_adl_primitivetype": lower property was updated to XMI element.
+Updated element "extension_primitive_types": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_primitive_types": upper property was updated to XMI element.
+Updated element "extension_primitive_types": lower property was updated to XMI element.
+Updated element "extension_meaning": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_meaning": upper property was updated to XMI element.
+Updated element "extension_meaning": lower property was updated to XMI element.
+Updated element "extension_is_im_infrastructure": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_is_im_infrastructure": upper property was updated to XMI element.
+Updated element "extension_is_im_infrastructure": lower property was updated to XMI element.
+Updated element "extension_XSDtopLevelElement": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_XSDtopLevelElement": upper property was updated to XMI element.
+Updated element "extension_XSDtopLevelElement": lower property was updated to XMI element.
+Updated element "extension_archetype_parent": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_archetype_parent": upper property was updated to XMI element.
+Updated element "extension_archetype_parent": lower property was updated to XMI element.
+Updated element business control: "http://schema.omg.org/spec/UML/2.1/Object" was updated to "UML Standard Profile::UML2 Metamodel::Classes::Kernel::InstanceSpecification".
+Updated element "extension_business control": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_business control": upper property was updated to XMI element.
+Updated element "extension_business control": lower property was updated to XMI element.
+Updated element business worker: "http://schema.omg.org/spec/UML/2.1/Object" was updated to "UML Standard Profile::UML2 Metamodel::Classes::Kernel::InstanceSpecification".
+Updated element "extension_business worker": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_business worker": upper property was updated to XMI element.
+Updated element "extension_business worker": lower property was updated to XMI element.
+Updated element column: "http://schema.omg.org/spec/UML/2.1/Attribute" was updated to "UML Standard Profile::UML2 Metamodel::Classes::Kernel::Property".
+Updated element "extension_column": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_column": upper property was updated to XMI element.
+Updated element "extension_column": lower property was updated to XMI element.
+Updated element internal worker: "http://schema.omg.org/spec/UML/2.1/Object" was updated to "UML Standard Profile::UML2 Metamodel::Classes::Kernel::InstanceSpecification".
+Updated element "extension_internal worker": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_internal worker": upper property was updated to XMI element.
+Updated element "extension_internal worker": lower property was updated to XMI element.
+Updated element "extension_enumeration": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_enumeration": upper property was updated to XMI element.
+Updated element "extension_enumeration": lower property was updated to XMI element.
+Updated element "extension_abstraction": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_abstraction": upper property was updated to XMI element.
+Updated element "extension_abstraction": lower property was updated to XMI element.
+Updated element "extension_use": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_use": upper property was updated to XMI element.
+Updated element "extension_use": lower property was updated to XMI element.
+Updated element "extension_derive": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_derive": upper property was updated to XMI element.
+Updated element "extension_derive": lower property was updated to XMI element.
+Updated element business boundary: "http://schema.omg.org/spec/UML/2.1/Object" was updated to "UML Standard Profile::UML2 Metamodel::Classes::Kernel::InstanceSpecification".
+Updated element "extension_business boundary": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_business boundary": upper property was updated to XMI element.
+Updated element "extension_business boundary": lower property was updated to XMI element.
+Updated element "extension_XSDall": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_XSDall": upper property was updated to XMI element.
+Updated element "extension_XSDall": lower property was updated to XMI element.
+Updated element "extension_XSDsequence": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_XSDsequence": upper property was updated to XMI element.
+Updated element "extension_XSDsequence": lower property was updated to XMI element.
+Updated element "extension_testsuite": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_testsuite": upper property was updated to XMI element.
+Updated element "extension_testsuite": lower property was updated to XMI element.
+Updated element "extension_import": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_import": upper property was updated to XMI element.
+Updated element "extension_import": lower property was updated to XMI element.
+Updated element "extension_master document": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_master document": upper property was updated to XMI element.
+Updated element "extension_master document": lower property was updated to XMI element.
+Updated element case worker: "http://schema.omg.org/spec/UML/2.1/Object" was updated to "UML Standard Profile::UML2 Metamodel::Classes::Kernel::InstanceSpecification".
+Updated element "extension_case worker": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_case worker": upper property was updated to XMI element.
+Updated element "extension_case worker": lower property was updated to XMI element.
+Updated element "extension_trace": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_trace": upper property was updated to XMI element.
+Updated element "extension_trace": lower property was updated to XMI element.
+Updated element "extension_trace": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_trace": upper property was updated to XMI element.
+Updated element "extension_trace": lower property was updated to XMI element.
+Updated element "extension_model document": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_model document": upper property was updated to XMI element.
+Updated element "extension_model document": lower property was updated to XMI element.
+Updated element "extension_testset": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_testset": upper property was updated to XMI element.
+Updated element "extension_testset": lower property was updated to XMI element.
+Updated element testcut: "http://schema.omg.org/spec/UML/2.1/Object" was updated to "UML Standard Profile::UML2 Metamodel::Classes::Kernel::InstanceSpecification".
+Updated element "extension_testcut": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_testcut": upper property was updated to XMI element.
+Updated element "extension_testcut": lower property was updated to XMI element.
+Updated element "extension_table": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_table": upper property was updated to XMI element.
+Updated element "extension_table": lower property was updated to XMI element.
+Updated element "extension_instantiate": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_instantiate": upper property was updated to XMI element.
+Updated element "extension_instantiate": lower property was updated to XMI element.
+Updated element "extension_business use-case realization": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_business use-case realization": upper property was updated to XMI element.
+Updated element "extension_business use-case realization": lower property was updated to XMI element.
+Updated element "extension_navigate": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_navigate": upper property was updated to XMI element.
+Updated element "extension_navigate": lower property was updated to XMI element.
+Updated element "extension_business use case": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_business use case": upper property was updated to XMI element.
+Updated element "extension_business use case": lower property was updated to XMI element.
+Updated element "extension_XSDchoice": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_XSDchoice": upper property was updated to XMI element.
+Updated element "extension_XSDchoice": lower property was updated to XMI element.
+Updated element worker: "http://schema.omg.org/spec/UML/2.1/Object" was updated to "UML Standard Profile::UML2 Metamodel::Classes::Kernel::InstanceSpecification".
+Updated element "extension_worker": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_worker": upper property was updated to XMI element.
+Updated element "extension_worker": lower property was updated to XMI element.
+Updated element business entity: "http://schema.omg.org/spec/UML/2.1/Object" was updated to "UML Standard Profile::UML2 Metamodel::Classes::Kernel::InstanceSpecification".
+Updated element "extension_business entity": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_business entity": upper property was updated to XMI element.
+Updated element "extension_business entity": lower property was updated to XMI element.
+Updated element "extension_business actor": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_business actor": upper property was updated to XMI element.
+Updated element "extension_business actor": lower property was updated to XMI element.
+Updated element "extension_DFD_Process": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_DFD_Process": upper property was updated to XMI element.
+Updated element "extension_DFD_Process": lower property was updated to XMI element.
+Updated element "extension_DFD_DataStore": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_DFD_DataStore": upper property was updated to XMI element.
+Updated element "extension_DFD_DataStore": lower property was updated to XMI element.
+Updated element "extension_DFD_DataFlow": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_DFD_DataFlow": upper property was updated to XMI element.
+Updated element "extension_DFD_DataFlow": lower property was updated to XMI element.
+Updated element "extension_DFD_External": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_DFD_External": upper property was updated to XMI element.
+Updated element "extension_DFD_External": lower property was updated to XMI element.
+Removed view  EAID_1ACCE645_E77B_4146_B2B0_49BFE433BD55 : Composition cannot be shown in Composite Structure diagram.
+Removed view  EAID_CEB1E567_C781_46cd_9109_154063DEA4B0 : Composition cannot be shown in Composite Structure diagram.
+Removed view  EAID_B6BFAEE1_7301_4b2b_B443_7FF63AF39247 : Composition cannot be shown in Composite Structure diagram.
+Added element "EAID_9D805C0B_7ACF_4109_82DD_4EB460510585EAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": A Lifeline element created to represent an element, "EAID_9D805C0B_7ACF_4109_82DD_4EB460510585", in a Communication diagram.
+Added element "EAID_B1888197_8056_406b_8F23_5B7E0899F0A3EAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": A Lifeline element created to represent an element, "EAID_B1888197_8056_406b_8F23_5B7E0899F0A3", in a Communication diagram.
+Added element "EAID_9AF76A6B_9DD0_4446_A855_8A6593FB2577EAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": A Lifeline element created to represent an element, "EAID_9AF76A6B_9DD0_4446_A855_8A6593FB2577", in a Communication diagram.
+Removed view "EAID_53F472C1_6A1C_4d62_8885_EBA35DFE56FDEAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": The view represents element that is not supported in Communication Diagram.
+Added element "EAID_4570623D_454A_412c_AFC9_99003FBEE669EAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": A Lifeline element created to represent an element, "EAID_4570623D_454A_412c_AFC9_99003FBEE669", in a Communication diagram.
+Added element "EAID_9AA47975_7E16_4a2b_81B2_CDB5B3EAB08DEAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": A Lifeline element created to represent an element, "EAID_9AA47975_7E16_4a2b_81B2_CDB5B3EAB08D", in a Communication diagram.
+Added element "EAID_3F787D11_1498_4b45_BC80_F291B91872FDEAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": A Lifeline element created to represent an element, "EAID_3F787D11_1498_4b45_BC80_F291B91872FD", in a Communication diagram.
+Added element "EAID_9F98B17F_E8DD_4045_BA72_6289394EB5C4EAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": A Lifeline element created to represent an element, "EAID_9F98B17F_E8DD_4045_BA72_6289394EB5C4", in a Communication diagram.
+Added element "EAID_72DB237E_858C_4c9c_9BED_3254B1F02CAFEAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": A Lifeline element created to represent an element, "EAID_72DB237E_858C_4c9c_9BED_3254B1F02CAF", in a Communication diagram.
+Added element "EAID_BECD5126_4A17_4f1b_8607_0CA94513D6CCEAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": A Lifeline element created to represent an element, "EAID_BECD5126_4A17_4f1b_8607_0CA94513D6CC", in a Communication diagram.
+Added element "EAID_C8E4D30B_69B9_420b_9171_9A602E90ABA7EAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": A Lifeline element created to represent an element, "EAID_C8E4D30B_69B9_420b_9171_9A602E90ABA7", in a Communication diagram.
+Added element "EAID_E34D87AC_7925_4781_908A_2C20654D315FEAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": A Lifeline element created to represent an element, "EAID_E34D87AC_7925_4781_908A_2C20654D315F", in a Communication diagram.
+Added element "EAID_11999DAB_3553_4466_B400_0821FBFB39EEEAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": A Lifeline element created to represent an element, "EAID_11999DAB_3553_4466_B400_0821FBFB39EE", in a Communication diagram.
+Added element "EAID_D182F840_E1B2_4506_B563_BCA8DBABC6ACEAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": A Lifeline element created to represent an element, "EAID_D182F840_E1B2_4506_B563_BCA8DBABC6AC", in a Communication diagram.
+Added element "EAID_0AA1DE8D_D38A_4cbd_9B74_B56C24571140EAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": A Lifeline element created to represent an element, "EAID_0AA1DE8D_D38A_4cbd_9B74_B56C24571140", in a Communication diagram.
+Added element "EAID_8EAB88FD_A811_48d2_A06D_070824842F21EAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": A Lifeline element created to represent an element, "EAID_8EAB88FD_A811_48d2_A06D_070824842F21", in a Communication diagram.
+Added element "EAID_B18C61CB_8F5C_44b1_B734_D6D40D2747A5EAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": A Lifeline element created to represent an element, "EAID_B18C61CB_8F5C_44b1_B734_D6D40D2747A5", in a Communication diagram.
+Added element "EAID_17ED14F3_191E_4cf9_80F2_C92AA960E19AEAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": A Lifeline element created to represent an element, "EAID_17ED14F3_191E_4cf9_80F2_C92AA960E19A", in a Communication diagram.
+Removed view "EAID_E4283829_8155_4a7e_A707_F857F3DF275BEAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": The view represents element that is not supported in Communication Diagram.
+Removed view "EAID_B98709DD_7571_4631_8507_471629E84AC9EAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": The view represents element that is not supported in Communication Diagram.
+Removed view "EAID_D44B2882_A367_441c_BF70_EEF0288D526FEAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": The view represents element that is not supported in Communication Diagram.
+Removed view "EAID_770BFC7C_6682_49e8_83F4_9B25EA192414EAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": The view represents element that is not supported in Communication Diagram.
+Removed view "EAID_F2EEB967_B139_4f44_8F46_A16CF26DC30BEAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": The view represents element that is not supported in Communication Diagram.
+Removed view "EAID_D9D4016D_2BB3_44be_9D58_6B4683E59D45EAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": The view represents element that is not supported in Communication Diagram.
+Removed view "EAID_704EF684_0B71_496f_ABC2_A46598AE7DCEEAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": The view represents element that is not supported in Communication Diagram.
+Removed view "EAID_2DCFDC69_918E_420a_BF86_D00EBFA897DCEAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": The view represents element that is not supported in Communication Diagram.
+Removed view "EAID_E80BFDD8_3741_430b_9C8A_16CEB7EAB2B0EAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": The view represents element that is not supported in Communication Diagram.
+Removed view "EAID_D9EA576A_76C2_41b2_BF07_32A73887EC58EAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": The view represents element that is not supported in Communication Diagram.
+Removed view "EAID_73668147_A0AA_4f67_B9C7_9ACF38F47419EAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": The view represents element that is not supported in Communication Diagram.
+Removed view "EAID_325BC4AF_3A48_472e_9B7C_FD7C2CE71575EAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": The view represents element that is not supported in Communication Diagram.
+Removed view "EAID_90A35EBB_1191_43d5_959E_23CCF3F76192EAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": The view represents element that is not supported in Communication Diagram.
+Removed view "EAID_BB76FD9E_B634_43ad_B4AF_058742FA5035EAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": The view represents element that is not supported in Communication Diagram.
+Removed view "EAID_C2CB1565_DAA0_41c9_8CD7_53C4A3744E72EAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": The view represents element that is not supported in Communication Diagram.
+Removed view "EAID_BF339A21_60C2_44c8_A327_3C7E9F52A450EAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": The view represents element that is not supported in Communication Diagram.
+Removed view "EAID_6DE786B6_64EB_4d17_B4B8_22B98AEAB2A0EAID_E6CDEB46_C795_4e5f_A406_655B1F589B0D": The view represents element that is not supported in Communication Diagram.
+Conversion Complete in 0 hr 0 min 6 sec
