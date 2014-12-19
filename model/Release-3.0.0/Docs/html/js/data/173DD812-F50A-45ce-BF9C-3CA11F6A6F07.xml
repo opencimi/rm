@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.1.7.1", "1", "CIMI Patterns (proposed UML representation)", "EARoot/EA1/EA7/EA1/EA192.htm", "4.png", "", "", "{1546FEFE-82D7-44d7-A95B-64941F9DCBBE}", "Package");
+tocTab[tocTab.length] = new Array("0.1.7.2", "1", "Slots in UML Example", "EARoot/EA1/EA7/EA2/EA260.htm", "4.png", "", "", "{60B1A247-4FAB-42d2-B971-61D654869AD4}", "Package");
+tocTab[tocTab.length] = new Array("0.1.7.3", "1", "Closed class", "EARoot/EA1/EA7/EA3/EA279.htm", "4.png", "", "", "{F66034B2-B516-4a64-B441-F41852785A60}", "Package");
+tocTab[tocTab.length] = new Array("0.1.7.4", "1", "Parameterised Classes", "EARoot/EA1/EA7/EA4/EA283.htm", "4.png", "", "", "{7D99D86E-B4B6-432c-BE07-F5ED67A7AF58}", "Package");
