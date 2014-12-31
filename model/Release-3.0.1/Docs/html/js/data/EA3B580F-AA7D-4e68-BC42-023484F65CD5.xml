@@ -1,0 +1,13 @@
+tocTab[tocTab.length] = new Array("0.1.4:1", "", "Mapping DCM 2 CIMI RM", "EARoot/EA1/EA4/EA117.htm", "182.png", "14", "0", "", "CompositeStructure diagram0","{FC25DDC8-BCC5-486c-B1CE-1957FA08FF44}");
+tocTab[tocTab.length] = new Array("0.1.4:2", "", "preamble", "EARoot/EA1/EA4/EA123.htm", "5.png", "E1384", "0", "", "Class0","{1B709C08-E76F-47ee-8658-FBBA0C8F40D7}");
+tocTab[tocTab.length] = new Array("0.1.4:3", "", "«enumeration» CIMI Datatypes", "EARoot/EA1/EA4/EA128.htm", "5.png", "E1341", "0", "", "Class0","{08890D72-5304-43dc-A8FD-66474B59E0A7}");
+tocTab[tocTab.length] = new Array("0.1.4:4", "", "ContainerConcept", "EARoot/EA1/EA4/EA129.htm", "5.png", "E1350", "0", "", "Class0","{E62B0E3C-7688-40eb-A263-E7FCD7B3A760}");
+tocTab[tocTab.length] = new Array("0.1.4:5", "", "datatype", "EARoot/EA1/EA4/EA130.htm", "118.png", "E1355", "0", "", "Part0","{91CE0263-B671-4fad-85DB-E46013DF6B71}");
+tocTab[tocTab.length] = new Array("0.1.4:6", "", "«enumeration» DCM Datatypes", "EARoot/EA1/EA4/EA132.htm", "5.png", "E1344", "0", "", "Class0","{135BD102-B450-4b45-8337-D286E279DD43}");
+tocTab[tocTab.length] = new Array("0.1.4:7", "", "Element", "EARoot/EA1/EA4/EA133.htm", "5.png", "E1342", "0", "", "Class0","{0904C293-5F24-42b7-B96D-0BA93365A74A}");
+tocTab[tocTab.length] = new Array("0.1.4:8", "", "id", "EARoot/EA1/EA4/EA134.htm", "118.png", "E1352", "0", "", "Part0","{16CF2235-DC9C-4481-A4BA-F2792B1546D9}");
+tocTab[tocTab.length] = new Array("0.1.4:9", "", "ISO631? language", "EARoot/EA1/EA4/EA135.htm", "118.png", "E1356", "0", "", "Part0","{B35B1540-607B-476f-A11C-2C324B95BF60}");
+tocTab[tocTab.length] = new Array("0.1.4:10", "", "LeafConcept", "EARoot/EA1/EA4/EA136.htm", "5.png", "E1348", "0", "", "Class0","{5EECCC69-1468-451d-B83D-E762102953DC}");
+tocTab[tocTab.length] = new Array("0.1.4:11", "", "Metadata", "EARoot/EA1/EA4/EA137.htm", "5.png", "E1349", "0", "", "Class0","{A8473B09-4D3B-4e24-9A7D-586798202A85}");
+tocTab[tocTab.length] = new Array("0.1.4:12", "", "name", "EARoot/EA1/EA4/EA138.htm", "118.png", "E1354", "0", "", "Part0","{27B34AB6-C1F6-454c-84C2-3220BDBCF58F}");
+tocTab[tocTab.length] = new Array("0.1.4:13", "", "RootConcept", "EARoot/EA1/EA4/EA139.htm", "5.png", "E1346", "0", "", "Class0","{565A643A-5445-4d47-B2E2-21310DCB228D}");

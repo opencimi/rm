@@ -1,0 +1,12 @@
+tocTab[tocTab.length] = new Array("0.1.7.2:1", "", "Slots in UML Example", "EARoot/EA1/EA7/EA2/EA257.htm", "175.png", "24", "0", "", "Logical diagram0","{55A2F936-1121-4283-B285-34C0DD0CC7DB}");
+tocTab[tocTab.length] = new Array("0.1.7.2:2", "", "Class1", "EARoot/EA1/EA7/EA2/EA265.htm", "5.png", "E1487", "0", "", "Class0","{4B28AFCA-6E75-4861-BFA1-703B2A1AA789}");
+tocTab[tocTab.length] = new Array("0.1.7.2:3", "", "Class1 B", "EARoot/EA1/EA7/EA2/EA266.htm", "5.png", "E1499", "0", "", "Class0","{799ED08C-AA92-467a-9D41-EA36D58EE6E1}");
+tocTab[tocTab.length] = new Array("0.1.7.2:4", "", "Class2", "EARoot/EA1/EA7/EA2/EA267.htm", "5.png", "E1490", "0", "", "Class0","{C4EBCD20-4E35-414b-B9CA-5FB5AB623E72}");
+tocTab[tocTab.length] = new Array("0.1.7.2:5", "", "Class2 B", "EARoot/EA1/EA7/EA2/EA268.htm", "5.png", "E1500", "0", "", "Class0","{09F88D02-EEBD-4759-BE5B-FFBB4E59D991}");
+tocTab[tocTab.length] = new Array("0.1.7.2:6", "", "Class3", "EARoot/EA1/EA7/EA2/EA269.htm", "5.png", "E1491", "0", "", "Class0","{31DA2740-AAC2-469d-8F52-38F390A09BE7}");
+tocTab[tocTab.length] = new Array("0.1.7.2:7", "", "Class3 B", "EARoot/EA1/EA7/EA2/EA270.htm", "5.png", "E1501", "0", "", "Class0","{DA242354-3100-458d-B3F4-69CD6259AB40}");
+tocTab[tocTab.length] = new Array("0.1.7.2:8", "", "«interface» Diagnosis &quot;Slot&quot;", "EARoot/EA1/EA7/EA2/EA271.htm", "8.png", "E1488", "0", "", "Interface0","{EAC17154-4EC5-4731-A2E7-52CF4CAA1DC0}");
+tocTab[tocTab.length] = new Array("0.1.7.2:9", "", "Discharge Summary", "EARoot/EA1/EA7/EA2/EA272.htm", "5.png", "E1486", "0", "", "Class0","{5C969029-42D0-47af-BF9C-A8DBD7178D40}");
+tocTab[tocTab.length] = new Array("0.1.7.2:10", "", "More Concrete Discharge Summary", "EARoot/EA1/EA7/EA2/EA273.htm", "5.png", "E1495", "0", "", "Class0","{5E360E20-0802-428d-9963-45FC564F59BD}");
+tocTab[tocTab.length] = new Array("0.1.7.2:11", "", "Slot Filled In", "EARoot/EA1/EA7/EA2/EA274.htm", "5.png", "E1496", "0", "", "Class0","{52164A77-4881-42a9-A079-E77A2F4405FD}");
+tocTab[tocTab.length] = new Array("0.1.7.2:12", "", "Xxx Diagnose", "EARoot/EA1/EA7/EA2/EA275.htm", "5.png", "E1489", "0", "", "Class0","{F7D50A8E-3E93-45f5-A8A6-9010B6AF051F}");
