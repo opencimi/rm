@@ -1,0 +1,178 @@
+Updated element "extension_archetype_rm_closure": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_archetype_rm_closure": upper property was updated to XMI element.
+Updated element "extension_archetype_rm_closure": lower property was updated to XMI element.
+Updated element "extension_reference_model": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_reference_model": upper property was updated to XMI element.
+Updated element "extension_reference_model": lower property was updated to XMI element.
+Updated element "extension_enum": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_enum": upper property was updated to XMI element.
+Updated element "extension_enum": lower property was updated to XMI element.
+Updated element "extension_is_adl_primitivetype": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_is_adl_primitivetype": upper property was updated to XMI element.
+Updated element "extension_is_adl_primitivetype": lower property was updated to XMI element.
+Updated element "extension_primitive_types": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_primitive_types": upper property was updated to XMI element.
+Updated element "extension_primitive_types": lower property was updated to XMI element.
+Updated element "extension_is_im_infrastructure": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_is_im_infrastructure": upper property was updated to XMI element.
+Updated element "extension_is_im_infrastructure": lower property was updated to XMI element.
+Updated element "extension_XSDtopLevelElement": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_XSDtopLevelElement": upper property was updated to XMI element.
+Updated element "extension_XSDtopLevelElement": lower property was updated to XMI element.
+Updated element "extension_archetype_parent": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_archetype_parent": upper property was updated to XMI element.
+Updated element "extension_archetype_parent": lower property was updated to XMI element.
+Updated element business control: "http://schema.omg.org/spec/UML/2.1/Object" was updated to "UML Standard Profile::UML2 Metamodel::Classes::Kernel::InstanceSpecification".
+Updated element "extension_business control": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_business control": upper property was updated to XMI element.
+Updated element "extension_business control": lower property was updated to XMI element.
+Updated element business worker: "http://schema.omg.org/spec/UML/2.1/Object" was updated to "UML Standard Profile::UML2 Metamodel::Classes::Kernel::InstanceSpecification".
+Updated element "extension_business worker": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_business worker": upper property was updated to XMI element.
+Updated element "extension_business worker": lower property was updated to XMI element.
+Updated element "extension_FK": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_FK": upper property was updated to XMI element.
+Updated element "extension_FK": lower property was updated to XMI element.
+Updated element "extension_FK": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_FK": upper property was updated to XMI element.
+Updated element "extension_FK": lower property was updated to XMI element.
+Updated element column: "http://schema.omg.org/spec/UML/2.1/Attribute" was updated to "UML Standard Profile::UML2 Metamodel::Classes::Kernel::Property".
+Updated element "extension_column": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_column": upper property was updated to XMI element.
+Updated element "extension_column": lower property was updated to XMI element.
+Updated element "extension_EAWorkingSet": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_EAWorkingSet": upper property was updated to XMI element.
+Updated element "extension_EAWorkingSet": lower property was updated to XMI element.
+Updated element internal worker: "http://schema.omg.org/spec/UML/2.1/Object" was updated to "UML Standard Profile::UML2 Metamodel::Classes::Kernel::InstanceSpecification".
+Updated element "extension_internal worker": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_internal worker": upper property was updated to XMI element.
+Updated element "extension_internal worker": lower property was updated to XMI element.
+Updated element "extension_xsd": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_xsd": upper property was updated to XMI element.
+Updated element "extension_xsd": lower property was updated to XMI element.
+Updated element "extension_enumeration": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_enumeration": upper property was updated to XMI element.
+Updated element "extension_enumeration": lower property was updated to XMI element.
+Updated element "extension_abstraction": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_abstraction": upper property was updated to XMI element.
+Updated element "extension_abstraction": lower property was updated to XMI element.
+Updated element "extension_xmlFile": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_xmlFile": upper property was updated to XMI element.
+Updated element "extension_xmlFile": lower property was updated to XMI element.
+Updated element "extension_use": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_use": upper property was updated to XMI element.
+Updated element "extension_use": lower property was updated to XMI element.
+Updated element "Chart-ChartProperties": Type with reference to "http://schema.omg.org/spec/UML/2.1/String" was updated to "UML Standard Profile::UML2 Metamodel::Classes::Kernel::String".
+Updated element "extension_Chart": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_Chart": upper property was updated to XMI element.
+Updated element "extension_Chart": lower property was updated to XMI element.
+Updated element "EAReportSpecification-DocumentOptions": Type with reference to "http://schema.omg.org/spec/UML/2.1/String" was updated to "UML Standard Profile::UML2 Metamodel::Classes::Kernel::String".
+Updated element "extension_EAReportSpecification": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_EAReportSpecification": upper property was updated to XMI element.
+Updated element "extension_EAReportSpecification": lower property was updated to XMI element.
+Updated element "extension_derive": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_derive": upper property was updated to XMI element.
+Updated element "extension_derive": lower property was updated to XMI element.
+Updated element business boundary: "http://schema.omg.org/spec/UML/2.1/Object" was updated to "UML Standard Profile::UML2 Metamodel::Classes::Kernel::InstanceSpecification".
+Updated element "extension_business boundary": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_business boundary": upper property was updated to XMI element.
+Updated element "extension_business boundary": lower property was updated to XMI element.
+Updated element "extension_XSDall": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_XSDall": upper property was updated to XMI element.
+Updated element "extension_XSDall": lower property was updated to XMI element.
+Updated element "extension_XSDsequence": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_XSDsequence": upper property was updated to XMI element.
+Updated element "extension_XSDsequence": lower property was updated to XMI element.
+Updated element "extension_testsuite": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_testsuite": upper property was updated to XMI element.
+Updated element "extension_testsuite": lower property was updated to XMI element.
+Updated element "extension_import": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_import": upper property was updated to XMI element.
+Updated element "extension_import": lower property was updated to XMI element.
+Updated element "master document-RTFTemplate": Type with reference to "http://schema.omg.org/spec/UML/2.1/String" was updated to "UML Standard Profile::UML2 Metamodel::Classes::Kernel::String".
+Updated element "extension_master document": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_master document": upper property was updated to XMI element.
+Updated element "extension_master document": lower property was updated to XMI element.
+Updated element "EAMatrixSpecification-MatrixOptions": Type with reference to "http://schema.omg.org/spec/UML/2.1/String" was updated to "UML Standard Profile::UML2 Metamodel::Classes::Kernel::String".
+Updated element "extension_EAMatrixSpecification": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_EAMatrixSpecification": upper property was updated to XMI element.
+Updated element "extension_EAMatrixSpecification": lower property was updated to XMI element.
+Updated element case worker: "http://schema.omg.org/spec/UML/2.1/Object" was updated to "UML Standard Profile::UML2 Metamodel::Classes::Kernel::InstanceSpecification".
+Updated element "extension_case worker": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_case worker": upper property was updated to XMI element.
+Updated element "extension_case worker": lower property was updated to XMI element.
+Updated element "extension_xmlTransform": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_xmlTransform": upper property was updated to XMI element.
+Updated element "extension_xmlTransform": lower property was updated to XMI element.
+Updated element "extension_trace": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_trace": upper property was updated to XMI element.
+Updated element "extension_trace": lower property was updated to XMI element.
+Updated element "extension_trace": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_trace": upper property was updated to XMI element.
+Updated element "extension_trace": lower property was updated to XMI element.
+Updated element "model document-RTFTemplate": Type with reference to "http://schema.omg.org/spec/UML/2.1/String" was updated to "UML Standard Profile::UML2 Metamodel::Classes::Kernel::String".
+Updated element "model document-SearchValue": Type with reference to "http://schema.omg.org/spec/UML/2.1/String" was updated to "UML Standard Profile::UML2 Metamodel::Classes::Kernel::String".
+Updated element "model document-SearchName": Type with reference to "http://schema.omg.org/spec/UML/2.1/String" was updated to "UML Standard Profile::UML2 Metamodel::Classes::Kernel::String".
+Updated element "extension_model document": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_model document": upper property was updated to XMI element.
+Updated element "extension_model document": lower property was updated to XMI element.
+Updated element "extension_testset": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_testset": upper property was updated to XMI element.
+Updated element "extension_testset": lower property was updated to XMI element.
+Updated element testcut: "http://schema.omg.org/spec/UML/2.1/Object" was updated to "UML Standard Profile::UML2 Metamodel::Classes::Kernel::InstanceSpecification".
+Updated element "extension_testcut": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_testcut": upper property was updated to XMI element.
+Updated element "extension_testcut": lower property was updated to XMI element.
+Updated element "table-DBVERSION": Type with reference to "http://schema.omg.org/spec/UML/2.1/String" was updated to "UML Standard Profile::UML2 Metamodel::Classes::Kernel::String".
+Updated element "table-OWNER": Type with reference to "http://schema.omg.org/spec/UML/2.1/String" was updated to "UML Standard Profile::UML2 Metamodel::Classes::Kernel::String".
+Updated element "table-TABLESPACE": Type with reference to "http://schema.omg.org/spec/UML/2.1/String" was updated to "UML Standard Profile::UML2 Metamodel::Classes::Kernel::String".
+Updated element "extension_table": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_table": upper property was updated to XMI element.
+Updated element "extension_table": lower property was updated to XMI element.
+Updated element "extension_instantiate": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_instantiate": upper property was updated to XMI element.
+Updated element "extension_instantiate": lower property was updated to XMI element.
+Updated element "extension_business use-case realization": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_business use-case realization": upper property was updated to XMI element.
+Updated element "extension_business use-case realization": lower property was updated to XMI element.
+Updated element "extension_EAUserStory": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_EAUserStory": upper property was updated to XMI element.
+Updated element "extension_EAUserStory": lower property was updated to XMI element.
+Updated element "TimeSeriesChart-ChartProperties": Type with reference to "http://schema.omg.org/spec/UML/2.1/String" was updated to "UML Standard Profile::UML2 Metamodel::Classes::Kernel::String".
+Updated element "extension_TimeSeriesChart": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_TimeSeriesChart": upper property was updated to XMI element.
+Updated element "extension_TimeSeriesChart": lower property was updated to XMI element.
+Updated element "extension_xslt": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_xslt": upper property was updated to XMI element.
+Updated element "extension_xslt": lower property was updated to XMI element.
+Updated element "extension_executable statemachine": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_executable statemachine": upper property was updated to XMI element.
+Updated element "extension_executable statemachine": lower property was updated to XMI element.
+Updated element "extension_executable statemachine": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_executable statemachine": upper property was updated to XMI element.
+Updated element "extension_executable statemachine": lower property was updated to XMI element.
+Updated element "extension_navigate": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_navigate": upper property was updated to XMI element.
+Updated element "extension_navigate": lower property was updated to XMI element.
+Updated element "extension_business use case": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_business use case": upper property was updated to XMI element.
+Updated element "extension_business use case": lower property was updated to XMI element.
+Updated element "extension_XSDchoice": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_XSDchoice": upper property was updated to XMI element.
+Updated element "extension_XSDchoice": lower property was updated to XMI element.
+Updated element "ModelView-ViewProperties": Type with reference to "http://schema.omg.org/spec/UML/2.1/String" was updated to "UML Standard Profile::UML2 Metamodel::Classes::Kernel::String".
+Updated element "extension_ModelView": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_ModelView": upper property was updated to XMI element.
+Updated element "extension_ModelView": lower property was updated to XMI element.
+Updated element worker: "http://schema.omg.org/spec/UML/2.1/Object" was updated to "UML Standard Profile::UML2 Metamodel::Classes::Kernel::InstanceSpecification".
+Updated element "extension_worker": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_worker": upper property was updated to XMI element.
+Updated element "extension_worker": lower property was updated to XMI element.
+Updated element business entity: "http://schema.omg.org/spec/UML/2.1/Object" was updated to "UML Standard Profile::UML2 Metamodel::Classes::Kernel::InstanceSpecification".
+Updated element "extension_business entity": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_business entity": upper property was updated to XMI element.
+Updated element "extension_business entity": lower property was updated to XMI element.
+Updated element "extension_business actor": A derived property, isComposite="true", was removed. agrregation="composite" was set.
+Updated element "extension_business actor": upper property was updated to XMI element.
+Updated element "extension_business actor": lower property was updated to XMI element.
+Conversion Complete in 0 hr 0 min 2 sec
