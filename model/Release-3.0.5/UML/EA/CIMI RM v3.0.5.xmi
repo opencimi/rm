@@ -22,7 +22,7 @@
 						<type xmi:idref="EAID_5FE717FA_A4DA_4c80_B4B1_E5997A26612D"/>
 						<lowerValue xmi:type="uml:LiteralInteger" xmi:id="EAID_LI000003_F207_40f4_B896_FD776FEEF639" value="1"/>
 						<upperValue xmi:type="uml:LiteralInteger" xmi:id="EAID_LI000004_F207_40f4_B896_FD776FEEF639" value="1"/>
-						<defaultValue xmi:type="uml:LiteralString" xmi:id="EAID_LI000005_F207_40f4_B896_FD776FEEF639" value="3.0.3"/>
+						<defaultValue xmi:type="uml:LiteralString" xmi:id="EAID_LI000005_F207_40f4_B896_FD776FEEF639" value="3.0.5"/>
 					</ownedAttribute>
 				</packagedElement>
 				<packagedElement xmi:type="uml:Association" xmi:id="EAID_17FD70F4_83AC_4810_94F5_2EE881EDF5C9" visibility="public">
@@ -710,7 +710,7 @@
 			<element xmi:idref="EAID_BF29CCC1_3615_40fa_A7A6_991A8B84B0A3" xmi:type="uml:Class" name="ARCHETYPED" scope="public">
 				<model package="EAPK_79A26B53_FB53_4964_9694_8F9BFAE492B2" tpos="0" ea_localid="80" ea_eleType="element"/>
 				<properties documentation="Archetypes act as the configuration basis for the particular structures of instances defined by the reference model. To enable archetypes to be used to create valid data, key classes in the reference model act as  root  points for archetyping. These classes have the archetype_details attribute set. An instance of the class ARCHETYPED contains the relevant archetype identification &#xA;information, allowing archetypes to be matched up with data instances." isSpecification="false" sType="Class" nType="0" scope="public" isRoot="false" isLeaf="false" isAbstract="false" isActive="false"/>
-				<project author="Linda" version="1.0" phase="1.0" created="2012-04-22 07:01:31" modified="2015-10-03 22:43:19" complexity="1" status="Proposed"/>
+				<project author="Linda" version="1.0" phase="1.0" created="2012-04-22 07:01:31" modified="2015-11-23 17:02:51" complexity="1" status="Proposed"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
 				<tags/>
@@ -733,7 +733,7 @@
 						<xrefs value="$XREFPROP=$XID={4268E192-1043-47ef-AC94-C476B2E4D922}$XID;$NAM=CustomProperties$NAM;$TYP=attribute property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=isID@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=0@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={81929096-B47F-4a83-A12C-CD42A055F6D9}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={DFA2C622-F3D6-4688-AC64-ED55985ABC4C}$XID;$NAM=Stereotypes$NAM;$TYP=attribute property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=is_im_infrastructure;@ENDSTEREO;$DES;$CLT={81929096-B47F-4a83-A12C-CD42A055F6D9}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 					</attribute>
 					<attribute xmi:idref="EAID_EAAABE42_F207_40f4_B896_FD776FEEF639" name="rm_version" scope="Public">
-						<initial body="3.0.3"/>
+						<initial body="3.0.5"/>
 						<documentation value="Version of the CIMI reference model used to create this object. &#xA;Expressed in terms of the release version string, e.g.  1.0 , 1.2.4 ."/>
 						<model ea_localid="16" ea_guid="{EAAABE42-F207-40f4-B896-FD776FEEF639}"/>
 						<properties type="String" derived="0" collection="false" duplicates="0" changeability="frozen"/>
@@ -2564,7 +2564,7 @@
 				<parameterSubstitutions/>
 				<documentation/>
 				<appearance linemode="3" linecolor="0" linewidth="0" seqno="0" headStyle="0" lineStyle="0"/>
-				<labels rb="0..1" rt="+archetype_details&#xA;«is_im_infrastructure»"/>
+				<labels rb="0..1" rt="archetype_details&#xA;«is_im_infrastructure»"/>
 				<extendedProperties virtualInheritance="0"/>
 				<style/>
 				<xrefs/>
@@ -2631,7 +2631,7 @@
 				<properties ea_type="Dependency" stereotype="instantiate" direction="Source -&gt; Destination"/>
 				<documentation/>
 				<appearance linemode="3" linecolor="-1" linewidth="0" seqno="0" headStyle="0" lineStyle="0"/>
-				<labels mb=" &#xA;«instantiate»"/>
+				<labels/>
 				<extendedProperties conditional=" &#xA;«instantiate»" virtualInheritance="0"/>
 				<style/>
 				<xrefs value="$XREFPROP=$XID={51D45405-D6C2-406e-BAC0-A4FB0B307994}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=instantiate;GUID={71B1AD58-4E50-49e5-8373-B60660434BDE};@ENDSTEREO;$DES;$CLT={7AB17C8C-108A-48a2-A6A1-FF8AA028E865}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
@@ -2698,7 +2698,7 @@
 				<properties ea_type="Dependency" stereotype="trace" direction="Source -&gt; Destination"/>
 				<documentation/>
 				<appearance linemode="3" linecolor="-1" linewidth="0" seqno="0" headStyle="0" lineStyle="0"/>
-				<labels mb=" &#xA;«trace»" rt="+value"/>
+				<labels rt="value"/>
 				<extendedProperties conditional=" &#xA;«trace»" virtualInheritance="0"/>
 				<style/>
 				<xrefs value="$XREFPROP=$XID={97DC4199-686A-401d-8068-CA342FA2C4EC}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=trace;GUID={E50C54F8-7315-445f-8DF9-3249BF7CEFC4};@ENDSTEREO;$DES;$CLT={BD1846F5-FFDD-4077-A7D5-5FA1B6B71075}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
@@ -2868,7 +2868,7 @@
 				<parameterSubstitutions/>
 				<documentation/>
 				<appearance linemode="3" linecolor="0" linewidth="0" seqno="0" headStyle="0" lineStyle="0"/>
-				<labels rb="1..*" rt="+item"/>
+				<labels rb="1..*" rt="item"/>
 				<extendedProperties virtualInheritance="0"/>
 				<style/>
 				<xrefs/>
@@ -2970,7 +2970,7 @@
 				<modifiers isRoot="false" isLeaf="false"/>
 				<documentation/>
 				<appearance linemode="3" linecolor="-1" linewidth="0" seqno="0" headStyle="0" lineStyle="0"/>
-				<labels lb="0..*" lt="+participation"/>
+				<labels lb="0..*" lt="participation"/>
 				<extendedProperties virtualInheritance="0"/>
 				<style/>
 				<xrefs/>
@@ -3071,7 +3071,7 @@
 				<properties ea_type="Dependency" stereotype="instantiate" direction="Source -&gt; Destination"/>
 				<documentation/>
 				<appearance linemode="3" linecolor="-1" linewidth="0" seqno="0" headStyle="0" lineStyle="0"/>
-				<labels mb=" &#xA;«instantiate»"/>
+				<labels/>
 				<extendedProperties conditional=" &#xA;«instantiate»" virtualInheritance="0"/>
 				<style/>
 				<xrefs value="$XREFPROP=$XID={AC4A7C44-6ECC-4814-9E2B-BC9F16E3A443}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=instantiate;GUID={71B1AD58-4E50-49e5-8373-B60660434BDE};@ENDSTEREO;$DES;$CLT={A00E416F-A775-467c-BB36-5F6A95EF05BA}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
@@ -3138,7 +3138,7 @@
 				<properties ea_type="Dependency" stereotype="instantiate" direction="Source -&gt; Destination"/>
 				<documentation/>
 				<appearance linemode="3" linecolor="-1" linewidth="0" seqno="0" headStyle="0" lineStyle="0"/>
-				<labels mb=" &#xA;«instantiate»"/>
+				<labels/>
 				<extendedProperties conditional=" &#xA;«instantiate»" virtualInheritance="0"/>
 				<style/>
 				<xrefs value="$XREFPROP=$XID={53C7444B-76AF-49ed-B820-2DB410637062}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=instantiate;GUID={71B1AD58-4E50-49e5-8373-B60660434BDE};FQName=EAUML::instantiate;@ENDSTEREO;$DES;$CLT={D271B0E1-B687-4060-A0E3-FCC056AFC241}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
@@ -3173,7 +3173,7 @@
 				<parameterSubstitutions/>
 				<documentation value="Target can be archetype_id or constraint (business rules/query language) on instance.&#xA;Target is the constraint on &quot;type of instance&quot; referenced at runtime.&#xA;target LOCATABLE &quot;type of instance&quot; is constrained in the AOM. Just like terminology binding.&#xA;Target is an association to a LOCATABLE.&#xA;&#xA;"/>
 				<appearance linemode="3" linecolor="-1" linewidth="0" seqno="0" headStyle="0" lineStyle="0"/>
-				<labels rb="1..1" rt="+target"/>
+				<labels rb="1..1" rt="target"/>
 				<extendedProperties virtualInheritance="0"/>
 				<style/>
 				<xrefs/>
@@ -3241,7 +3241,7 @@
 				<parameterSubstitutions/>
 				<documentation/>
 				<appearance linemode="3" linecolor="0" linewidth="0" seqno="0" headStyle="0" lineStyle="0"/>
-				<labels lt="+source" rb="0..*" rt="+link"/>
+				<labels lt="source" rb="0..*" rt="link"/>
 				<extendedProperties virtualInheritance="0"/>
 				<style/>
 				<xrefs/>
@@ -3274,7 +3274,7 @@
 				<properties ea_type="Dependency" stereotype="trace" direction="Source -&gt; Destination"/>
 				<documentation/>
 				<appearance linemode="3" linecolor="-1" linewidth="0" seqno="0" headStyle="0" lineStyle="0"/>
-				<labels mb=" &#xA;«trace»"/>
+				<labels/>
 				<extendedProperties conditional=" &#xA;«trace»" virtualInheritance="0"/>
 				<style value="LFEP={E73DE3FA-4F1A-4f44-B621-B849378EA636}L;"/>
 				<xrefs value="$XREFPROP=$XID={58879199-090B-4954-B43D-5845A3C9246A}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=trace;GUID={E50C54F8-7315-445f-8DF9-3249BF7CEFC4};@ENDSTEREO;$DES;$CLT={5B8EF85E-02F3-4b22-B496-3F529A517785}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
@@ -3409,7 +3409,7 @@
 				<properties ea_type="Dependency" stereotype="trace" direction="Source -&gt; Destination"/>
 				<documentation/>
 				<appearance linemode="3" linecolor="-1" linewidth="0" seqno="0" headStyle="0" lineStyle="0"/>
-				<labels mb=" &#xA;«trace»"/>
+				<labels/>
 				<extendedProperties conditional=" &#xA;«trace»" virtualInheritance="0"/>
 				<style value="LFEP={844DFA62-C383-49cd-8A24-9102E5A72E29}L;"/>
 				<xrefs value="$XREFPROP=$XID={F5CE89D4-EAF1-4860-9D68-0406C5EB5B15}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=trace;GUID={E50C54F8-7315-445f-8DF9-3249BF7CEFC4};@ENDSTEREO;$DES;$CLT={F412308F-EB6C-449f-9065-AD1F3BD2B412}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
@@ -3444,7 +3444,7 @@
 				<parameterSubstitutions/>
 				<documentation/>
 				<appearance linemode="3" linecolor="-1" linewidth="0" seqno="0" headStyle="0" lineStyle="0"/>
-				<labels rb="1..1" rt="+party"/>
+				<labels rb="1..1" rt="party"/>
 				<extendedProperties virtualInheritance="0"/>
 				<style/>
 				<xrefs/>
@@ -3682,7 +3682,7 @@
 				<parameterSubstitutions/>
 				<documentation/>
 				<appearance linemode="3" linecolor="0" linewidth="0" seqno="0" headStyle="0" lineStyle="0"/>
-				<labels rb="1..1" rt="+target"/>
+				<labels rb="1..1" rt="target"/>
 				<extendedProperties virtualInheritance="0"/>
 				<style/>
 				<xrefs/>
@@ -4192,7 +4192,7 @@
 				<modifiers isRoot="false" isLeaf="false"/>
 				<documentation/>
 				<appearance linemode="3" linecolor="-1" linewidth="0" seqno="0" headStyle="0" lineStyle="0"/>
-				<labels lb="0..1" lt="+lower&lt;T&gt;" rb="*"/>
+				<labels lb="0..1" lt="lower&lt;T&gt;" rb="*"/>
 				<extendedProperties virtualInheritance="0"/>
 				<style/>
 				<xrefs/>
@@ -4260,7 +4260,7 @@
 				<parameterSubstitutions/>
 				<documentation/>
 				<appearance linemode="3" linecolor="-1" linewidth="0" seqno="0" headStyle="0" lineStyle="0"/>
-				<labels mb=" &#xA;«bind»" mt="&lt;T -&gt; DATE_TIME&gt;"/>
+				<labels mt="&lt;T -&gt; DATE_TIME&gt;"/>
 				<extendedProperties conditional=" &#xA;«bind»" virtualInheritance="0"/>
 				<style/>
 				<xrefs value="$XREFPROP=$XID={19D1B38B-BA91-4fa8-8345-98C77CB28C49}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=bind;GUID={AEC4C5CA-907C-4525-BA84-84EB81C38C8A};@ENDSTEREO;$DES;$CLT={A25D196A-B8C3-4a84-9A61-265AE1E20F39}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
@@ -4294,7 +4294,7 @@
 				<modifiers isRoot="false" isLeaf="false"/>
 				<documentation/>
 				<appearance linemode="3" linecolor="-1" linewidth="0" seqno="0" headStyle="0" lineStyle="0"/>
-				<labels lb="0..1" lt="+upper&lt;T&gt;"/>
+				<labels lb="0..1" lt="upper&lt;T&gt;"/>
 				<extendedProperties virtualInheritance="0"/>
 				<style/>
 				<xrefs/>
@@ -4496,7 +4496,7 @@
 				<modifiers isRoot="false" isLeaf="false"/>
 				<documentation/>
 				<appearance linemode="3" linecolor="-1" linewidth="0" seqno="0" headStyle="0" lineStyle="0"/>
-				<labels lb="0..*" lt="+mapping"/>
+				<labels lb="0..*" lt="mapping"/>
 				<extendedProperties virtualInheritance="0"/>
 				<style/>
 				<xrefs/>
@@ -4564,7 +4564,7 @@
 				<parameterSubstitutions/>
 				<documentation/>
 				<appearance linemode="3" linecolor="-1" linewidth="0" seqno="0" headStyle="0" lineStyle="0"/>
-				<labels rb="0..*" rt="+role"/>
+				<labels rb="0..*" rt="role"/>
 				<extendedProperties virtualInheritance="0"/>
 				<style/>
 				<xrefs/>
@@ -4633,7 +4633,7 @@
 				<parameterSubstitutions/>
 				<documentation/>
 				<appearance linemode="3" linecolor="0" linewidth="0" seqno="0" headStyle="0" lineStyle="0"/>
-				<labels lt="+source" rb="0..*" rt="+relationship"/>
+				<labels lt="source" rb="0..*" rt="relationship"/>
 				<extendedProperties virtualInheritance="0"/>
 				<style/>
 				<xrefs/>
@@ -4668,7 +4668,7 @@
 				<parameterSubstitutions/>
 				<documentation/>
 				<appearance linemode="3" linecolor="-1" linewidth="0" seqno="0" headStyle="0" lineStyle="0"/>
-				<labels rb="1..1" rt="+target"/>
+				<labels rb="1..1" rt="target"/>
 				<extendedProperties virtualInheritance="0"/>
 				<style/>
 				<xrefs/>
@@ -5586,9 +5586,9 @@
 			<diagram xmi:id="EAID_CC882433_6948_4e2f_9B2C_6D5F0DE1301E">
 				<model package="EAPK_187D8523_BE51_4bf0_9ACF_BE8FBBC56821" localID="40" owner="EAPK_187D8523_BE51_4bf0_9ACF_BE8FBBC56821" tpos="1"/>
 				<properties name="CIMI Core Model" type="Logical" documentation="The CIMI Core Reference Model diagram shows the main classes in the CIMI reference model upon which clinical models will be defined. These include the concrete classes Item Group and Element. "/>
-				<project author="CIMI MTF" version="3.0.3" created="2014-05-21 08:41:39" modified="2015-10-06 20:53:40"/>
+				<project author="CIMI MTF" version="3.0.5" created="2014-05-21 00:00:00" modified="2015-11-23 17:03:47"/>
 				<style1 value="ShowPrivate=1;ShowProtected=1;ShowPublic=1;HideRelationships=0;Locked=0;Border=0;HighlightForeign=0;PackageContents=1;SequenceNotes=0;ScalePrintImage=0;PPgs.cx=0;PPgs.cy=0;DocSize.cx=827;DocSize.cy=1169;ShowDetails=0;Orientation=P;Zoom=100;ShowTags=0;OpParams=1;VisibleAttributeDetail=0;ShowOpRetType=1;ShowIcons=1;CollabNums=0;HideProps=0;ShowReqs=0;ShowCons=0;PaperSize=9;HideParents=0;UseAlias=0;HideAtts=0;HideOps=0;HideStereo=0;HideElemStereo=0;ShowTests=0;ShowMaint=0;ConnectorNotation=UML 2.1;ExplicitNavigability=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;ShowNotes=0;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;HideConnStereotype=1;"/>
-				<style2 value="ExcludeRTF=0;DocAll=0;HideQuals=1;AttPkg=1;ShowTests=0;ShowMaint=0;SuppressFOC=1;MatrixActive=0;SwimlanesActive=1;KanbanActive=0;MatrixLineWidth=1;MatrixLocked=0;TConnectorNotation=UML 2.1;TExplicitNavigability=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;ProfileData=;MDGDgm=;STBLDgm=;ShowNotes=0;VisibleAttributeDetail=0;ShowOpRetType=1;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;HideConnStereotype=1;SuppressedCompartments=;SaveTag=C8B14C51;"/>
+				<style2 value="ExcludeRTF=0;DocAll=0;HideQuals=1;AttPkg=1;ShowTests=0;ShowMaint=0;SuppressFOC=1;MatrixActive=0;SwimlanesActive=1;KanbanActive=0;MatrixLineWidth=1;MatrixLocked=0;TConnectorNotation=UML 2.1;TExplicitNavigability=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;ProfileData=;MDGDgm=;STBLDgm=;ShowNotes=0;VisibleAttributeDetail=0;ShowOpRetType=1;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;HideConnStereotype=1;SuppressedCompartments=;SaveTag=88B08573;"/>
 				<swimlanes value="locked=false;orientation=0;width=0;inbar=false;names=false;color=0;bold=false;fcol=0;tcol=-1;ofCol=-1;hl=1;cls=0;"/>
 				<matrixitems value="locked=false;matrixactive=false;swimlanesactive=true;kanbanactive=false;width=1;"/>
 				<extendedProperties/>
