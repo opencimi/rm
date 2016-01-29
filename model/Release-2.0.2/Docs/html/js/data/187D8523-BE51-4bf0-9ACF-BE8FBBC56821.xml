@@ -1,9 +1,0 @@
-tocTab[tocTab.length] = new Array("0.1.1:1", "", "CIMI Core Model", "EARoot/EA1/EA1/EA24.htm", "175.png", "40", "0", "", "Logical diagram0","{CC882433-6948-4e2f-9B2C-6D5F0DE1301E}");
-tocTab[tocTab.length] = new Array("0.1.1:2", "", "CIMI Data Value Types", "EARoot/EA1/EA1/EA26.htm", "175.png", "35", "0", "", "Logical diagram0","{70BC89EB-D8EA-4afb-82E9-C5CF08943C56}");
-tocTab[tocTab.length] = new Array("0.1.1:3", "", "CIMI Party Model", "EARoot/EA1/EA1/EA28.htm", "175.png", "5", "0", "", "Logical diagram0","{3577F211-1D8C-4ce4-8579-D29DC083A96D}");
-tocTab[tocTab.length] = new Array("0.1.1:4", "", "CIMI Primitive Types", "EARoot/EA1/EA1/EA30.htm", "175.png", "9", "0", "", "Logical diagram0","{2DC1F095-42EB-47ef-841F-FF6F7519FC50}");
-tocTab[tocTab.length] = new Array("0.1.1:5", "", "Artifact1", "EARoot/EA1/EA1/EA36.htm", "82.png", "1630", "0", "", "Artifact0","{7A947A03-0B31-49e2-A781-49AEA04DF0E2}");
-tocTab[tocTab.length] = new Array("0.1.1.1", "1", "«archetype_rm_closure» Core", "EARoot/EA1/EA1/EA37.htm", "4.png", "", "", "{79A26B53-FB53-4964-9694-8F9BFAE492B2}", "Package");
-tocTab[tocTab.length] = new Array("0.1.1.2", "1", "Data Value Types", "EARoot/EA1/EA1/EA38.htm", "4.png", "", "", "{4754B3AC-3A30-4873-B346-CD4A63517F3F}", "Package");
-tocTab[tocTab.length] = new Array("0.1.1.3", "1", "Party", "EARoot/EA1/EA1/EA39.htm", "4.png", "", "", "{7FBD0485-2548-41b1-A455-CD8E1AFC4E9A}", "Package");
-tocTab[tocTab.length] = new Array("0.1.1.4", "1", "Primitive Types", "EARoot/EA1/EA1/EA40.htm", "4.png", "", "", "{EB3AE3A7-7F2F-44e7-872E-673854A03835}", "Package");

@@ -1,6 +1,0 @@
-tocTab[tocTab.length] = new Array("0.1.2:1", "", "Abstract", "EARoot/EA1/EA2/EA97.htm", "5.png", "E1317", "0", "", "Class0","{7B58BFC6-DBE3-4082-90D5-8CCC44150A81}");
-tocTab[tocTab.length] = new Array("0.1.2:2", "", "Datatype", "EARoot/EA1/EA2/EA98.htm", "5.png", "E1322", "0", "", "Class0","{4006783B-2E87-4474-87BD-F830D4948D15}");
-tocTab[tocTab.length] = new Array("0.1.2:3", "", "Demographics Entry Point", "EARoot/EA1/EA2/EA99.htm", "5.png", "E1320", "0", "", "Class0","{6C1701E7-5CFC-4f39-B4D4-EFA4B3ED96A9}");
-tocTab[tocTab.length] = new Array("0.1.2:4", "", "Entry Point", "EARoot/EA1/EA2/EA100.htm", "5.png", "E1316", "0", "", "Class0","{29A083AB-064A-4348-BE2B-B25DB8403944}");
-tocTab[tocTab.length] = new Array("0.1.2:5", "", "Primitive Types", "EARoot/EA1/EA2/EA102.htm", "230.png", "E1319", "0", "", "DataType0","{538397D7-DFBE-4ebd-A74B-97A88986BEE5}");
-tocTab[tocTab.length] = new Array("0.1.2:6", "", "Supporting", "EARoot/EA1/EA2/EA103.htm", "5.png", "E1318", "0", "", "Class0","{73EFCA47-41EB-46af-88B0-56750A5568FF}");

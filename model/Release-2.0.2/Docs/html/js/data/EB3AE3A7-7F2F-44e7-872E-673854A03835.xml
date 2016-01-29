@@ -1,7 +1,0 @@
-tocTab[tocTab.length] = new Array("0.1.1.4:1", "", "«is_adl_primitivetype» Boolean", "EARoot/EA1/EA1/EA4/EA80.htm", "230.png", "1616", "0", "", "DataType0","{2596B84E-9C6B-493d-8649-A6035907D7B2}");
-tocTab[tocTab.length] = new Array("0.1.1.4:2", "", "Byte", "EARoot/EA1/EA1/EA4/EA81.htm", "230.png", "1617", "0", "", "DataType0","{DB669BB7-43BA-4867-A6F5-8E5EEFD6BD7A}");
-tocTab[tocTab.length] = new Array("0.1.1.4:3", "", "Character", "EARoot/EA1/EA1/EA4/EA82.htm", "230.png", "1618", "0", "", "DataType0","{3EA16253-DA7F-45f2-8974-E1EE313F4BCB}");
-tocTab[tocTab.length] = new Array("0.1.1.4:4", "", "«is_adl_primitivetype» Integer", "EARoot/EA1/EA1/EA4/EA83.htm", "230.png", "1619", "0", "", "DataType0","{110B28DA-A118-4a1c-B57C-03E4930BD5D5}");
-tocTab[tocTab.length] = new Array("0.1.1.4:5", "", "«is_adl_primitivetype» Real", "EARoot/EA1/EA1/EA4/EA84.htm", "230.png", "1620", "0", "", "DataType0","{05F7B3EA-EB67-4027-BD8F-7F3099D22C2C}");
-tocTab[tocTab.length] = new Array("0.1.1.4:6", "", "«is_adl_primitivetype» String", "EARoot/EA1/EA1/EA4/EA85.htm", "230.png", "1621", "0", "", "DataType0","{5FE717FA-A4DA-4c80-B4B1-E5997A26612D}");
-tocTab[tocTab.length] = new Array("0.1.1.4:7", "", "URI", "EARoot/EA1/EA1/EA4/EA86.htm", "230.png", "1622", "0", "", "DataType0","{12C5A6D3-76AA-4156-8824-DAC2ADFD0B82}");

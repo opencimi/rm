@@ -1,8 +1,0 @@
-tocTab[tocTab.length] = new Array("0.1.1.1:1", "", "ARCHETYPED", "EARoot/EA1/EA1/EA1/EA45.htm", "5.png", "E80", "0", "", "Class0","{BF29CCC1-3615-40fa-A7A6-991A8B84B0A3}");
-tocTab[tocTab.length] = new Array("0.1.1.1:2", "", "CORE_LOCATABLE", "EARoot/EA1/EA1/EA1/EA46.htm", "5.png", "E1552", "0", "", "Class0","{6241B075-F423-4977-8810-6553303AC509}");
-tocTab[tocTab.length] = new Array("0.1.1.1:3", "", "ELEMENT", "EARoot/EA1/EA1/EA1/EA47.htm", "5.png", "E179", "0", "", "Class0","{5CA66864-87F0-4aaa-9D15-339BEBEE2882}");
-tocTab[tocTab.length] = new Array("0.1.1.1:4", "", "ITEM", "EARoot/EA1/EA1/EA1/EA48.htm", "5.png", "E175", "0", "", "Class0","{DA71FB6D-40DC-420b-8658-5F1A2DCFD363}");
-tocTab[tocTab.length] = new Array("0.1.1.1:5", "", "ITEM_GROUP", "EARoot/EA1/EA1/EA1/EA49.htm", "5.png", "E177", "0", "", "Class0","{08BF4FBB-90F8-4ec9-A812-51488475C79F}");
-tocTab[tocTab.length] = new Array("0.1.1.1:6", "", "LINK", "EARoot/EA1/EA1/EA1/EA50.htm", "5.png", "E76", "0", "", "Class0","{4EC150E8-5716-4968-955E-AB65FF7FB3D4}");
-tocTab[tocTab.length] = new Array("0.1.1.1:7", "", "«archetype_parent» LOCATABLE", "EARoot/EA1/EA1/EA1/EA51.htm", "5.png", "E78", "0", "", "Class0","{840C5FE5-74A7-4e0c-B70D-FAAB57B6BE00}");
-tocTab[tocTab.length] = new Array("0.1.1.1:8", "", "PARTICIPATION", "EARoot/EA1/EA1/EA1/EA52.htm", "5.png", "E123", "0", "", "Class0","{14B9892D-32C2-442f-9C71-FE277D327102}");
